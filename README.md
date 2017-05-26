@@ -1,3 +1,3 @@
 # gulp-angilar-cli
 
-Gulp файл для сборки angular-cli
+Gulp file for the assembly of angular-cli
